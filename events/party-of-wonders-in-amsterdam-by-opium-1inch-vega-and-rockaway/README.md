@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Party of wonders in Amsterdam by Opium, 1inch, Vega and Rockaway
+title: Party of wonders in Amsterdam by Opium, 1inch, Vega, Rockaway and Zerion
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  Bring all your madness to the Party full of wonders in Amsterdam by Opium, 1inch, Vega, Rockaway
+  LIMITED SPACES! The mad party full of wonders exclusively playing DJ Eelke Kleijn in Amsterdam by Opium, 1inch, Vega, Rockaway and Zerion
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Party of wonders in Amsterdam by Opium, 1inch, Vega and Rockaway
+name: Party of wonders in Amsterdam by Opium, 1inch, Vega, Rockaway and Zerion
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,7 +50,9 @@ name: Party of wonders in Amsterdam by Opium, 1inch, Vega and Rockaway
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    A mad party made for you by the teams of 1inch, Opium, Rockaway, and Vega✨🪅🪄🔮
+    Epic mad party with the one and only rockstar DJ Eelke Kleijn brought to you by the teams of Rockaway, 1inch, Opium, Vega and Zerion to experience Amsterdam in the most proper way possible 😎
+  -
+    Will there be a really cool DJ? - OF COURSE, exclusively for you Eelke Kleijn 💥💥💥- a Dutch DJ and producer who played at festivals such as Burning Man🔥, Cercle, Ultra Music Festival and for labels such as Sony Music, EMI, Ministry of Sound. He is a BBC Radio 1 'Next Hype' ⚡️⚡️⚡️
   -
     Will there be food and drinks? - YES YES YES!!!
   -
@@ -60,14 +62,14 @@ synopsis:
   -
     How to enter -> The first option is for our active guests. Every team will be giving away 10 tickets each, follow our Twitter accounts to find out more
   -
-    But don’t worry if you missed the tickets from the teams, we have great news for you. You still are welcome to the party just follow the simple guidelines ->  Prepare yourself, get the madest costume that you have (optional but highly encouraged) - Download the 1inch wallet - Mint Cheshire cat NFT avatar from opium.finance - Follow Vega and Rockaway on Twitter - If you made all of the steps, you can come to the party. But remember, that you will be judged by the strictest … just kidding :)
+    But don’t worry if you missed the tickets from the teams, we have great news for you. You still are welcome to the party just follow the simple guidelines that will be posted on Twitter accounts of the projects -> Opium, 1inch, Rockaway, Zerion, Vega
   -
     The rules - relax, dance, drink, enjoy and have fun
 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-21
+date: 2022-04-22
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
 endDate:
