@@ -76,11 +76,11 @@ tickets: https://b-art-bar.blockdam.nl
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Meet Berlage lobby
+venue: Devconnect co-working space @Beurs van Berlage
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Oudebrugsteeg 9, 1012 JN Amsterdam, Netherlands
+address: Damrak 243, 1012 ZJ Amsterdam, Netherlands
 
 # The category of the event. Valid options:
 # - conference
