@@ -34,7 +34,7 @@ title: DAOs, Degens & Drinks
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  web3 DDD is for DAO contributooors and degens to come together and embrace web3 culture - organized by Data Union Framework, powered by Streamr.
+  web3 DDD is for DAO contributooors and degens to come together and embrace web3 culture - organized by Data Union DAO.
 
 #####################
 ### EVENT DETAILS ###
@@ -50,14 +50,14 @@ name: DAOs, Degens & Drinks
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    web3 DDD is for DAO contributooors and degens to come together and embrace web3 culture - organized by Data Union Framework, powered by Streamr.
+    web3 DDD is for DAO contributooors and degens to come together and embrace web3 culture - organized by Data Union DAO.
   -
     NFT gated event. 50 NFTickets available. no ticket, no drink, no alpha. Tickets are released everyday via twitter.
 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-21
+date: 2022-04-19
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
 endDate:
@@ -67,7 +67,7 @@ endDate:
 # Example: '18:00'
 time: '19:00'
 # Time when the event ends. Can be left empty.
-endTime:
+endTime: '01:00'
 
 # The URL where to akquire the tickets. Can be left empty.
 tickets: https://www.web3ddd.xyz/
@@ -78,7 +78,7 @@ tickets: https://www.web3ddd.xyz/
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: TBA
+venue: Revealed inside the NFT description.
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
