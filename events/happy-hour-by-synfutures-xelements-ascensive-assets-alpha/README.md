@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: DAOs, Degens & Drinks
+title: Happy Hour by SynFutures, XElements, Ascensive Assets & Alpha
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  web3 DDD is for DAO contributooors and degens to come together and embrace web3 culture - organized by Data Union DAO.
+  Join us at Amsterdam's best pool club for drinks, light bites, pool, and poker.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: DAOs, Degens & Drinks
+name: Happy Hour by SynFutures, XElements, Ascensive Assets & Alpha
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,14 +50,16 @@ name: DAOs, Degens & Drinks
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    web3 DDD is for DAO contributooors and degens to come together and embrace web3 culture - organized by Data Union DAO.
+    In celebration of the ETH Amsterdam, SynFutures, XElements, Ascensive Assets and Alpha DAO are excited to present an exclusive happy hour/mixer on Wednesday, 04/20 from 8:00 pm - 12:00 am.
   -
-    NFT gated event. 50 NFTickets available. no ticket, no drink, no alpha. Tickets are released everyday via twitter.
+    Come meet, mingle and enjoy a fun and relaxing evening with the industry's VCs, founders, influencers and enthusiasts at a beautiful venue in Amsterdam.
+  -
+    We have rented out one of best pool clubs in town, and let's not waste this great opportunity to double the joy and excitement for the web 3.0 age.
 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-19
+date: 2022-04-20
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
 endDate:
@@ -65,12 +67,12 @@ endDate:
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '19:00'
+time: '20:00'
 # Time when the event ends. Can be left empty.
-endTime: '01:00'
+endTime: '24:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://www.web3ddd.xyz/
+tickets: https://devconnect.org/
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -78,11 +80,11 @@ tickets: https://www.web3ddd.xyz/
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Revealed inside the NFT description.
+venue: Plan B
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Amsterdam, Netherlands
+address: 209 Overtoom, 1054 HT Amsterdam , Netherlands
 
 # The category of the event. Valid options:
 # - conference

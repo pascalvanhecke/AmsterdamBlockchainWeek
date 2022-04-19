@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: DAOs, Degens & Drinks
+title: DeCompression Happy Hour (by Mask, Meson and Mysterium)
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  web3 DDD is for DAO contributooors and degens to come together and embrace web3 culture - organized by Data Union DAO.
+  Open bar and bytes by the water.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: DAOs, Degens & Drinks
+name: DeCompression Happy Hour (by Mask, Meson and Mysterium)
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,14 +50,18 @@ name: DAOs, Degens & Drinks
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    web3 DDD is for DAO contributooors and degens to come together and embrace web3 culture - organized by Data Union DAO.
+    After a long Amsterdam Blockchain Week, enjoy a waterside drink and unplug - or gear up for the hackathon...
   -
-    NFT gated event. 50 NFTickets available. no ticket, no drink, no alpha. Tickets are released everyday via twitter.
+    No presentations or demos, just catching up with the rest of the Web3 crew in Amsterdam.
+  -
+    Located on the Oosterdok (Eastern Dock), a short walk from the main Hub.  Space is limited, please reserve your spot.
+  -
+    Hosted by Mask, Meson and Mysterium networks.
 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-19
+date: 2022-04-22
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
 endDate:
@@ -65,12 +69,12 @@ endDate:
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '19:00'
+time: '18:00'
 # Time when the event ends. Can be left empty.
-endTime: '01:00'
+endTime: '21:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://www.web3ddd.xyz/
+tickets: https://www.eventbrite.com/e/decompression-happy-hour-registration-320601717367
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -78,11 +82,11 @@ tickets: https://www.web3ddd.xyz/
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Revealed inside the NFT description.
+venue: Hannekes Boot
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Amsterdam, Netherlands
+address: 4D Dijksgracht, 1019 BS Amsterdam, Netherlands
 
 # The category of the event. Valid options:
 # - conference
