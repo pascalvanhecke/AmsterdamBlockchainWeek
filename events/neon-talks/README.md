@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Neon Talks
+title: Neon Party
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  Neon Talks is a meeting of developers, startups and investors who are creating the future of the Web3. Powered by https://neon-labs.org/
+  Join us at the Neon Party after Neon Talks event. Drinks, music and secret attraction for brave participants. Powered by https://neon-labs.org/
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Neon Talks
+name: Neon Party
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,14 +50,11 @@ name: Neon Talks
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    Neon Talks is a meeting of developers, startups and investors who are creating the future of the Web3. At the event we will discuss all stages of project creation, including the search for ideas and teams, product development and attracting investment.
+    Party is going to be from 7:00 pm to 10:00 pm in the sky bar A’DAM LOOKOUT (20th & 21th floor of A’DAM Toren Amsterdam)
   -
-    Zero to the Web3. The event is dedicated to highlighting different projects, including reports, panel discussions and workshops.
+    At Overhoeksplein 5 (Entrance next to EYE Film Museum where our educational part will take place)
   -
-    We welcome developers, startups and investors to join us for the talk about Web3.
-  -
-    Powered by https://neon-labs.org/
-
+    Tickets are limited. Don't miss out
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
@@ -69,12 +66,12 @@ endDate:
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '10:30'
+time: '19:00'
 # Time when the event ends. Can be left empty.
 endTime: '22:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://neon-labs.org/neontalks
+tickets: https://www.eventbrite.com/e/neon-party-tickets-324040914097
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -86,7 +83,7 @@ venue: ​​Eye Filmmuseum
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Amsterdam, Netherlands
+address: Overhoeksplein 5 , 1031 KS Amsterdam, Netherlands
 
 # The category of the event. Valid options:
 # - conference
@@ -95,7 +92,7 @@ address: Amsterdam, Netherlands
 # - workshop
 # - drink
 # Use _only_ one, and don't capitalize.
-category: event
+category: drink
 
 
 #################
