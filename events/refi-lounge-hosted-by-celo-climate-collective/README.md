@@ -76,7 +76,7 @@ tickets: https://www.eventbrite.com/e/celo-and-climate-collective-tickets-323307
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: @droog (droog.com)
+venue: Droog (droog.com)
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
