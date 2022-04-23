@@ -28,20 +28,20 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Cross-chain & chill (by composable.finance)
+title: Composable Demon Hours (by composable.finance)
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  A formal gathering for kindred degens interested in Composable Finance and cross-chain technology.
+  Late night party for kindred Composable degens.
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Cross-chain & chill (by composable.finance)
+name: Composable Demon Hours (by composable.finance)
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -50,14 +50,11 @@ name: Cross-chain & chill (by composable.finance)
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    Composable Finance's vision is to become the entryway and networking fabric for blockchain networks and serve all interactions, transfers, and communication cross-ecosystem.
-  -
-    Composable Finance has developed Mosaic, our transfer availability layer designed to ensure that there is always sufficient liquidity available when engaging in cross-layer transfers. If you're interested in meeting the Composable team who are at the forefront of building an interoperable future, reserve your ticker for Friday! Spaces are limited
-
+    Join us and hang out with the Composable Finance team and community for a late night party. 🥂
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-24
+date: 2022-04-23
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
 endDate:
@@ -65,12 +62,12 @@ endDate:
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '20:00'
+time: '23:45'
 # Time when the event ends. Can be left empty.
-endTime: '23:00'
+endTime: '03:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://www.eventbrite.com/e/cross-chain-chill-w-composable-finance-tickets-322642050057
+tickets: https://www.eventbrite.com/e/demon-hours-w-composable-finance-tickets-322654748037
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -78,11 +75,11 @@ tickets: https://www.eventbrite.com/e/cross-chain-chill-w-composable-finance-tic
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Flying Dutchman
+venue: BarFly Amsterdam
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Amsterdam, Netherlands
+address: Nassaukade 122, 1052 EC Amsterdam, Netherlands
 
 # The category of the event. Valid options:
 # - conference
